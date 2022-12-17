@@ -6,7 +6,7 @@ function Main() {
    return (
 
       <main className="main-page" >
-         <div class="main-page__container">
+         <div className="main-page__container">
             <Collage />
             <BlockMain />
          </div>
